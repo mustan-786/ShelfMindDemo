@@ -1,1 +1,1 @@
-# ShelfMindDemo
+# shelfmind-app
